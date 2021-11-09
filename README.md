@@ -31,15 +31,14 @@ _Bash Scripting_
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+[Wiki](https://github.com/Sharker3312/EyeRecon/wiki/)
 
-
-## Autores ✒️
+## Authors ✒️
 
 * **Lester Diaz Perez** - *Trabajo Inicial* - 
 
 
-## Licencia 📄
+## License 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
