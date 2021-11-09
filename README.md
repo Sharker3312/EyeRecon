@@ -10,7 +10,7 @@ cd EyeRecon
 ./eyerecon.sh 
 ```
 
-### Pre-requisitos 📋
+### Prerequisites 📋
 
 You need to have these tools installed
 * assetfinder 
@@ -22,7 +22,7 @@ You need to have these tools installed
 * httpx 
 * gowitness
 
-## Ejecutando las pruebas ⚙️
+## Demo ⚙️
 
 
 ## Construido con 🛠️
