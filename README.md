@@ -39,8 +39,7 @@ _Bash Scripting_
 
 
 ## License 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+*  [LICENSE.md](https://github.com/Sharker3312/EyeRecon/blob/main/LICENSE) 
 
 
 
