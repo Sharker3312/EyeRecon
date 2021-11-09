@@ -12,7 +12,15 @@ cd EyeRecon
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+You need to have these tools installed
+* assetfinder 
+* amass 
+* waybackurls 
+* findomain 
+* sublist3r 
+* gauplus 
+* httpx 
+* gowitness
 
 ## Ejecutando las pruebas ⚙️
 
@@ -27,8 +35,6 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Lester Diaz Perez** - *Trabajo Inicial* - 
 
