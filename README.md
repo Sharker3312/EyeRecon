@@ -35,7 +35,7 @@ _Bash Scripting_
 
 ## Authors ✒️
 
-* **Lester Diaz Perez** - *Trabajo Inicial* - 
+* **Sharker3312** - *Trabajo Inicial* - 
 
 
 ## License 📄
